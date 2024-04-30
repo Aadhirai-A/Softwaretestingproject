@@ -1,4 +1,4 @@
-# Softwaretestingproject
+# Software Testing Project
 
 Project #1- Test case and Test plan for opencart (https://awesomeqa.com/ui/index.php?route=account/register)
 
